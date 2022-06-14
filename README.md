@@ -2,7 +2,7 @@
 
 npp is a java script intended for the screening of KEPs. It will cleave all input protein sequences at the residues of KK,KR,RK and RR.
 Cleaved products are compared using blastp from blast+ command line toolkit to look for similar cleavage products (blast identity of 70%, resp 40% for very short sequences)
-For more detailed Methods, please see: xxx
+For more detailed Methods, please see publication (coming soon).
 
 
 ## Needed input file
